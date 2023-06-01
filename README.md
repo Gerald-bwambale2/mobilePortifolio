@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="GERALD BWAMBALE" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse-Hello</b></h3>
+  <h3><b>Portfolio: setup and mobile first</b></h3>
 
 </div>
 
@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Microverse-Hello <a name="about-project"></a>
+# 📖 Portfolio: setup and mobile first <a name="about-project"></a>
 
 >This is Microverse-Hello I created it using  html, and css
 
