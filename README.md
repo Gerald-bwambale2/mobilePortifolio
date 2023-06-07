@@ -26,15 +26,6 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./images/logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Portfolio: setup and mobile first</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -58,22 +49,20 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio: setup and mobile first <a name="about-project"></a>
+# 📖  Microverse Portfolio <a name="about-project"></a>
 
->This is Microverse-Hello I created it using  html, and css
+>This is Microverse Portfolio, I created it using  html, and css to show how i can implement my skill in html and css
 
 
 ## 🛠 Built With <a name="built-with"></a>
-1-HTML.
-2-CSS.
-3-LINTERS
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
+-HTML
+.CSS
+LINTERS
 <details>
   <summary>Client</summary>
   <ul>
@@ -90,20 +79,11 @@ After you're finished please remove all the comments and instructions!
 -Style.css file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Coming soon
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -196,8 +176,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project just give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -205,8 +183,6 @@ If you like this project just give it a star
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse 
 
